@@ -1,0 +1,14 @@
+name: brainly
+description: Brainly scrape for all country code .
+version: 0.0.1
+homepage: https://github.com/azkadev/brainly/tree/main/library/azkadev/docs
+repository: https://github.com/azkadev/brainly/tree/main/library/azkadev
+issue_tracker: https://github.com/azkadev/brainly/issues
+
+environment:
+  sdk: '>=2.17.0 <3.0.0'
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.16.0
+dependencies: {http: ^0.13.4}
