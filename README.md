@@ -1,23 +1,13 @@
-# Brainly Library
+IyBCcmFpbmx5IExpYnJhcnkKCiMjIEluc3RhbGwKCmBgYGJhc2gKZmx1dHRl
+ciBwdWIgYWRkIGJyYWlubHkKYGBgCgpgYGBiYXNoCmRhcnQgcHViIGFkZCBi
+cmFpbmx5CmBgYAojIyBRdWlja3N0YXJ0CgotIFNlcnZlciBTaWRlCgpgYGBk
+YXJ0CmltcG9ydCAnZGFydDpjb252ZXJ0JzsKaW1wb3J0ICdwYWNrYWdlOmJy
+YWlubHkvYnJhaW5seS5kYXJ0JzsKdm9pZCBtYWluKExpc3Q8U3RyaW5nPiBh
+cmd1bWVudHMpIGFzeW5jIHsKICBCcmFpbmx5UmVzdWx0IGJyYWlubHkgPSBh
+d2FpdCBCcmFpbmx5KCkuc2VhcmNoKCJwZW5nZXJ0aWFuIG5rcmkiLCBjb3Vu
+dF9yZXN1bHQ6IDEpOwogIHByaW50KGJyYWlubHkuZ2V0SnNvblJlc3VsdCk7
+Cn0KYGBg
 
-## Install
-
-```bash
-flutter pub add brainly
-```
-
-```bash
-dart pub add brainly
-```
-## Quickstart
-
-- Server Side
-
-```dart
-import 'dart:convert';
-import 'package:brainly/brainly.dart';
-void main(List<String> arguments) async {
-  BrainlyResult brainly = await Brainly().search("pengertian nkri", count_result: 1);
-  print(brainly.getJsonResult);
-}
-```
+<!-- START GLOBAL CORPORATION -->
+404: Not Found
+<!-- END GLOBAL CORPORATION -->
